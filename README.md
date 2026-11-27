@@ -1,6 +1,6 @@
 # 🏙️ UrbanTwin AI
 
-**Live Production Deployment:** [https://urbantwin-ai-v2.onrender.com/](https://urbantwin-ai-v2.onrender.com/)
+**Live Production Deployment:** https://urbantwin-ai-lq5d.onrender.com
 
 > **Multi-Camera Traffic Intelligence & Predictive Urban Digital Twin API**
 
